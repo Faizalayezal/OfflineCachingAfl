@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42856868520",
+    "firebase_url": "https://workmagertesting-default-rtdb.firebaseio.com",
+    "project_id": "workmagertesting",
+    "storage_bucket": "workmagertesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42856868520:android:0140920473ab91cebcb09d",
+        "android_client_info": {
+          "package_name": "com.tsbempire.offlinecachingmechanism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42856868520-e81j3fd8mps1j2lhe4nrhi9cg3j3o3bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tsbempire.offlinecachingmechanism",
+            "certificate_hash": "18633c82125a8902c6896d97f9f82be195646791"
+          }
+        },
+        {
+          "client_id": "42856868520-648lluksr2kn8gj6t7fh7bql5q80aaq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNM-2TJV4avbNEGFW8ah5GKZSQ7Ra5GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42856868520-648lluksr2kn8gj6t7fh7bql5q80aaq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
